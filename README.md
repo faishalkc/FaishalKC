@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Faishal Hady
+# Hi there, I'm Muhammad Faishal Hady 👋
 
 Bachelor of Computer Systems who is passionate about Web Development, Networking, and Information Technology. I enjoy building web applications, exploring network technologies, and continuously learning new things in the IT field.
 
