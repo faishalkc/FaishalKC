@@ -40,7 +40,7 @@ Bachelor of Computer Systems who is passionate about Web Development, Networking
 
 ![](https://github-stats-extended.vercel.app/api?username=faishalkc&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=faishalkc&theme=catppuccin_latte&hide_border=false)
+![](https://streak-stats.demolab.com/?user=faishalkc&theme=catppuccin_latte&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalkc&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
