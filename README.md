@@ -46,4 +46,4 @@ Bachelor of Computer Systems who is passionate about Web Development, Networking
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=faishalkc&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+![](https://github-contribution-card.vercel.app/api?username=faishalkc&theme=catppuccin_latte&order_by=stars&limit=5&hide_contributor_rank=false&combine_all_yearly_contributions=true)
